@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Cloud Architecture, Conteiners end CICD**
 
-- 👯 I’m looking to collaborate on [Platiagro](https://github.com/platiagro)
-
 - 📫 How to reach me **edgar.menezes41@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
